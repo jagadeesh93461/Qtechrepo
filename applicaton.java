@@ -14,5 +14,22 @@ public class HelloWorld {
 
         // println() prints the following line to the output screen
         System.out.println("You entered: " + number);
-    }
+ feature204 add by dev2
+
+ }<html>
+    <head>
+        <script>
+            function speak() {
+                alert('Hello')
+            }
+        </script>
+    </head>
+    <body>
+        <button onclick="speak()">Click Me</button>
+    </body>
+</html>
+
+
+
 }
+#feature endded
